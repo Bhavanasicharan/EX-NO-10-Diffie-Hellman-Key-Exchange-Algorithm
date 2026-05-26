@@ -1,8 +1,7 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
-## DATE: 10.11.2025
-## NAME: KARTHICK V
-## REG NO: 212223040086
+## NAME: CHARAN REDDY B
+## REG NO: 212224240026
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
